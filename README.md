@@ -89,7 +89,7 @@ These tests do not show how the tools behave when data is larger than memory or 
 | TikTok | 9.8% | 7.2% | 5.0% |
 | YouTube | 5.0% | 5.0% | 5.0% |
 
-The platform ranking (Google, Instagram, Facebook, TikTok, YouTube) stays the same for all three values of b. Only the exact percentages change.
+Google, Instagram and Facebook keep the same order for all three values of b. YouTube stays at the 5% minimum in every case, and TikTok falls from 9.8% to the 5% minimum as b increases, so at b = 0.8 TikTok and YouTube receive the same share.
 
 **Modelled expected revenue (Rs.) for a Rs. 1,000,000 budget:**
 
